@@ -10,7 +10,5 @@ Semester: 2/2025
 # Installation
 Please follow Isaac Lab's installation guide.
 
-# Usage
-```py
-python scripts/sb3/train.py --task RLENV-Cartpole --num_env 32
-```
+# Homework 0: Understanding Isaac-Cartpole-v0 Environment
+Navigate to [Homework 0](homework/HW0.md)
